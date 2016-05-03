@@ -1,0 +1,1 @@
+Lägger till en fil innuti ett dir för att testa det.
